@@ -1,0 +1,36 @@
+// Connect local repo with remote using token 
+git remote set-url origin https://<token>@github.com/<user-name>/repo
+
+
+
+
+// Step 1   : Put file in stage area      			git add . 
+				  Check stagged area file 			git  status .
+				  Remove from stage area       	git  restore --stagged .
+				  
+				  
+				  
+
+
+// Step 2 	: git commit -m " desired message "
+
+
+
+
+
+//Step 3 	 git push   // provided git remote set-url ......... is called before , otherwise username , and token needs to be given as passwd				  
+
+
+
+
+
+
+
+
+
+
+
+List of Token to for most frequent repo
+
+
+
