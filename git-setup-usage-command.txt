@@ -1,6 +1,19 @@
+
+Step0 -- Create a folder 
+			 git init
+			 git branch -M main
+			 creatr a file called Readme.md
+			 git add Readme.md
+			 git commit -m "first commit"
+			 
+			 
+
 // Connect local repo with remote using token 
 git remote set-url origin https://<token>@github.com/<user-name>/repo
 
+
+
+git remote set-url origin https://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@github.com/manishv1/AI-ML-Books.git
 
 
 
@@ -31,6 +44,5 @@ git remote set-url origin https://<token>@github.com/<user-name>/repo
 
 
 List of Token to for most frequent repo
-
 
 
